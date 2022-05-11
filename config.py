@@ -1,0 +1,1 @@
+PHOTO_FOLDER_PATH = "C:\\Users\\enesc\\Proiect_MCT\\photos"
